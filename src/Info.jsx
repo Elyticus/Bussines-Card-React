@@ -1,10 +1,10 @@
-import ProfileImage from "../src/assets/images/profile.jpg";
+import ProfilePicture from "../public/images/profile.jpg";
 
 export default function Info() {
   return (
     <>
       <div className="header">
-        <img className="profile-image" src={ProfileImage} />
+        <img className="profile-image" src={ProfilePicture} />
         <h3>Catalin Pirvulescu</h3>
         <h4>Web Developer</h4>
         <h5>igunereve@gmail.com</h5>
