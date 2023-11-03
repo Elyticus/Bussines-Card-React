@@ -1,8 +1,10 @@
+import ProfileImage from "../src/assets/images/profile.jpg";
+
 export default function Info() {
   return (
     <>
       <div className="header">
-        <img className="profile-image" src="/dist/assets/profile.jpg" />
+        <img className="profile-image" src={ProfileImage} />
         <h3>Catalin Pirvulescu</h3>
         <h4>Web Developer</h4>
         <h5>igunereve@gmail.com</h5>
