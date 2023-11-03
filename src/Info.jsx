@@ -2,7 +2,7 @@ export default function Info() {
   return (
     <>
       <div className="header">
-        <img className="profile-image" src="/src/assets/images/profile.jpg" />
+        <img className="profile-image" src="/dist/assets/images/profile.jpg" />
         <h3>Catalin Pirvulescu</h3>
         <h4>Web Developer</h4>
         <h5>igunereve@gmail.com</h5>
