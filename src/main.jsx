@@ -5,7 +5,6 @@ import About from "./About";
 import Interests from "./Interests";
 import Footer from "./Footer";
 import "./index.css";
-import "./assets/images/profile.jpg";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
